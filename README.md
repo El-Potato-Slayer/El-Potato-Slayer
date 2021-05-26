@@ -40,7 +40,14 @@ I have a passion for:
 - LinkedIn: [@Chad van Wyk](https://www.linkedin.com/in/chad-eligh-van-wyk/)
 - Email: leighchad.cl@gmail.com
  
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=el-potato-slayer&theme=dark&show_icons=true" />
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-potato-slayer&layout=compact&theme=dark&show_icons=true" />
+
+ 
+<div style="stats">
+ 
+  <img height="200rem"  src="https://github-readme-stats.vercel.app/api?username=el-potato-slayer&theme=dark&show_icons=true" />
+ 
+  <img  height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-potato-slayer&layout=compact&theme=dark&show_icons=true" />
+ 
+</div
  
 
