@@ -1,4 +1,4 @@
-## Hey! I'm a Full-Stack Developer with a background in Computer Science & Physics
+## Hey! I'm a full-stack developer with a background in computer science & physics
 
 I have a passion for: 
 - Problem-solving and learning new technologies
