@@ -41,13 +41,11 @@ I have a passion for:
 - Email: leighchad.cl@gmail.com
  
 
- 
-<div style="stats">
- 
-  <img height="200rem"  src="https://github-readme-stats.vercel.app/api?username=el-potato-slayer&theme=dark&show_icons=true" />
- 
-  <img  height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-potato-slayer&layout=compact&theme=dark&show_icons=true" />
- 
-</div
+ <p align="center">
+   <a href="https://github.com/MkrtichSargsyan">
+    <img src="https://github-readme-stats.vercel.app/api?username=el-potato-slayer&theme=dark&show_icons=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=el-potato-slayer&theme=dark&show_icons=true" style="max-width:100%;" height="180em">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-potato-slayer&layout=compact&theme=dark&show_icons=true" alt="mikesargsyan" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-potato-slayer&layout=compact&theme=dark&show_icons=true" style="max-width:100%;" height="180em">
+  </a>
+</p
  
 
