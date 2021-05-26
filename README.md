@@ -1,11 +1,11 @@
-## Hey! I'm a Full-Stack Developer with a background in Computer Science & Physics. 	
+## Hey! I'm a Full-Stack Developer with a background in Computer Science & Physics
 
 I have a passion for: 
 - Problem-solving and learning new technologies
 - Building meaningful/impactful projects
 - Machine learning and artificial intelligence
 
-### Outside of coding, I love playing on my Playstation 4, watching anime, and meeting cool people from all over the world. 
+### Outside of coding, I love playing on my Playstation 4, watching anime, and meeting cool people from all over the world
 
 ### Languages: 
 
