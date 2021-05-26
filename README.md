@@ -1,9 +1,3 @@
-# Professional skills reviewer:
-## I don't know what I should fix. The things you mention are too vague. Please specify what actually needs to be fixed.
-- I already have my stacks in my bio. What should I fix with regards to that?
-- What's wrong with my project descriptions? And for which projects?
-- Which capitalizition and punctuation errors are you referring to?
-
 ## Hey! I'm a full-stack developer with a background in computer science & physics
 
 I have a passion for: 
