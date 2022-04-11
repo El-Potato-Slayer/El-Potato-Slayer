@@ -5,7 +5,7 @@ I have a passion for:
 - Building meaningful/impactful projects
 - Machine learning and artificial intelligence
 
-### Outside of coding, I love playing Playstation 4, watching anime, and meeting cool people from all over the world
+### Outside of coding, I love playing games, watching anime, and meeting cool people from all over the world
 
 ### Languages: 
 
